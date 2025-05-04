@@ -11,8 +11,6 @@ This project showcases a clean and modern Restaurant Menu User Interface designe
 
 🔍 Search and filter options for faster browsing
 
-📱 Mobile-friendly and responsive layout
-
 ## 🛠️ Tools Used
 Figma (for UI Design)
 
@@ -23,4 +21,4 @@ Modern UI components with a minimalist aesthetic
 ## 🎯 Purpose
 The design focuses on enhancing the digital dining experience for users, whether in a physical restaurant (via QR menu) or through a food delivery app.
 
-Figma Prototype link : https://www.figma.com/proto/RLNI8rvNetJXHlAZgEdSls/Retaurant-Menu?node-id=1-1532&t=Wcw9ZwLJx17ORxzf-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1389
+### Figma Prototype link : https://www.figma.com/proto/RLNI8rvNetJXHlAZgEdSls/Retaurant-Menu?node-id=1-1532&t=Wcw9ZwLJx17ORxzf-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1389
